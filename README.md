@@ -56,9 +56,7 @@ Tudo desenvolvido com foco em **estrutura, clareza e performance**.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lanpobre\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanpobre\&layout=compact\&theme=tokyonight\&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lanpobre&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
